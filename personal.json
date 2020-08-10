@@ -1,0 +1,27 @@
+[
+	{
+		"nombre": "Juan",
+		"depto": "Sistemas",
+		"cargo": "Desarrollador"
+		"email": "juan.salazar@epn.edu.ec", 
+		"genero": "M",
+		"direccion": 
+		[
+			"Quitumbe", 53, "Cdla. Ejercito", "B"
+		],
+		"telefono":"0995644186"
+	},
+	{
+		"nombre": "Anita",
+		"depto": "RRHH", 
+		"cargo": "Secretaria"
+		"email": "anita.salazar@epn.edu.ec", 
+		"genero": "F",
+		"direccion": 
+		[
+			"Solanda",21, "Fe y Alegria", "B"
+		],
+		"telefono":"022692352"
+	},
+	
+]
