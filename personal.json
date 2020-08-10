@@ -2,7 +2,7 @@
 	{
 		"nombre": "Juan",
 		"depto": "Sistemas",
-		"cargo": "Desarrollador"
+		"cargo": "Desarrollador",
 		"email": "juan.salazar@epn.edu.ec", 
 		"genero": "M",
 		"direccion": 
@@ -14,7 +14,7 @@
 	{
 		"nombre": "Anita",
 		"depto": "RRHH", 
-		"cargo": "Secretaria"
+		"cargo": "Secretaria",
 		"email": "anita.salazar@epn.edu.ec", 
 		"genero": "F",
 		"direccion": 
@@ -22,6 +22,6 @@
 			"Solanda",21, "Fe y Alegria", "B"
 		],
 		"telefono":"022692352"
-	},
+	}
 	
 ]
